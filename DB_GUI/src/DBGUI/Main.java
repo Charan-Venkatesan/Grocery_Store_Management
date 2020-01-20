@@ -1,4 +1,4 @@
-package DBGUI;
+package GSM;
 import javax.swing.*;
 
 import javax.swing.text.DefaultCaret;
